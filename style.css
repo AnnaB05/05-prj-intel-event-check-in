@@ -87,6 +87,12 @@ body {
   text-align: center;
 }
 
+/* removes bullet points from attendee list */
+.attendee-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
 /* Check-in form */
 .check-in {
   width: 100%;
